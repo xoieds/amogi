@@ -8,7 +8,7 @@
 
 makes a mosaic image of smaller colour shifted images
 
- - put frames for processing in /frams/ folder
+ - put frames for processing in /frames/ folder
  - finished images will be saved to /doneframes/
  - trying to to process to many or too large images at once may cause it to crash 
  
