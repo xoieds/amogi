@@ -5,7 +5,7 @@ from PIL import Image
 
 # todo: multi-threading a frame on each thread
 #       neat gui with size options
-#       functions to split videos and gifs into frames for procesing
+#       functions to split videos and gifs into frames for procesing.
 
 add = Image.open(r"am2.jpg")
 
